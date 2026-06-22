@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Contribution Tracker"
+  short_description: "Estimate AI versus human code contribution"
+  default_prompt: "Use $ai-contribution-tracker to analyze this repository and produce an AI contribution report."
+
+policy:
+  allow_implicit_invocation: true

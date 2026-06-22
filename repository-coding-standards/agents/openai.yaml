@@ -1,0 +1,7 @@
+interface:
+  display_name: "Repository Coding Standards"
+  short_description: "Enforce local code style before editing"
+  default_prompt: "Use $repository-coding-standards to learn this repository's coding standards before modifying code."
+
+policy:
+  allow_implicit_invocation: true

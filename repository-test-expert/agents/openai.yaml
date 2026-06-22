@@ -1,0 +1,7 @@
+interface:
+  display_name: "Repository Test Expert"
+  short_description: "Generate tests in the repo's existing style"
+  default_prompt: "Use $repository-test-expert to learn this repository's test patterns and add tests that match them."
+
+policy:
+  allow_implicit_invocation: true

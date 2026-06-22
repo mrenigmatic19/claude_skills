@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codebase Knowledge Extractor"
+  short_description: "Map repository architecture and business logic"
+  default_prompt: "Use $codebase-knowledge-extractor to build a repository knowledge base with architecture, concepts, feature flows, and reading order."
+
+policy:
+  allow_implicit_invocation: true

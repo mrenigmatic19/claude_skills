@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feature Tracer"
+  short_description: "Trace features end-to-end across a repo"
+  default_prompt: "Use $feature-tracer to trace this feature end-to-end before modifying it."
+
+policy:
+  allow_implicit_invocation: true

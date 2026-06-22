@@ -1,0 +1,7 @@
+interface:
+  display_name: "Architecture Reviewer"
+  short_description: "Prevent architecture drift in code changes"
+  default_prompt: "Use $architecture-reviewer to review this proposed change against the repository's existing architecture."
+
+policy:
+  allow_implicit_invocation: true
