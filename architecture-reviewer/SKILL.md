@@ -1,4 +1,4 @@
----
+﻿---
 name: architecture-reviewer
 description: Review proposed changes against a repository's existing architecture to prevent architecture drift. Use before or during code changes to identify architecture style, module boundaries, dependency rules, existing patterns, layering violations, unnecessary abstractions, cross-module coupling, duplicate services, framework drift, and maintainability risk.
 ---
@@ -188,3 +188,9 @@ Low | Medium | High
 - Never introduce new abstractions if equivalent ones already exist.
 - Always prefer repository conventions over personal preference.
 - Always call out when a requested implementation conflicts with the existing architecture.
+
+## Skill-Specific References
+
+- references/task-patterns.md - concrete trigger patterns, inputs, procedure, and pitfalls for this exact skill.
+- references/verification-matrix.md - proof matrix for deciding which tests, runtime checks, or review evidence are enough.
+

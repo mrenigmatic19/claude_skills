@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "ADO Comment Plan Writer"
+  short_description: "Writes an ADO comment explaining what the AI understood..."
+  default_prompt: "Use $ado-comment-plan-writer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

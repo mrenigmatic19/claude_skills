@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "AI Contribution Reporter"
+  short_description: "Tracks AI-generated lines, human-edited lines, files touched..."
+  default_prompt: "Use $ai-contribution-reporter to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

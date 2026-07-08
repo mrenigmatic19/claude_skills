@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "CI Failure Explainer"
+  short_description: "Reads failed build/lint/type/test logs and converts them into..."
+  default_prompt: "Use $ci-failure-explainer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Duplicate Component Detector"
+  short_description: "Checks whether Claude is about to create a duplicate..."
+  default_prompt: "Use $duplicate-component-detector to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

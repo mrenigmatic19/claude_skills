@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Redux Zustand State Editor"
+  short_description: "Guides changes in Redux/Zustand stores without breaking..."
+  default_prompt: "Use $redux-zustand-state-editor to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

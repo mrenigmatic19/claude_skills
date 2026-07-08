@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Approval Workflow State Machine Mapper"
+  short_description: "Maps frontend approval workflows: submitted, pending..."
+  default_prompt: "Use $approval-workflow-state-machine-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

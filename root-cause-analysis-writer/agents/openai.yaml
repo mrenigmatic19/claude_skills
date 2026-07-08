@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Root Cause Analysis Writer"
+  short_description: "Support root cause analysis with repository-aware analysis..."
+  default_prompt: "Use $root-cause-analysis-writer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

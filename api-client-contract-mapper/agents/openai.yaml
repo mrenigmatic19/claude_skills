@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "API Client Contract Mapper"
+  short_description: "Finds frontend API clients, request/response types, hooks..."
+  default_prompt: "Use $api-client-contract-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

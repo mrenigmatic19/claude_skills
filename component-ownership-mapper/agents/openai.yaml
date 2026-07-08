@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Component Ownership Mapper"
+  short_description: "Maps UI components to parent pages, feature modules, owners..."
+  default_prompt: "Use $component-ownership-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

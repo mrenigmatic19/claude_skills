@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Role Based Flow Explorer"
+  short_description: "Runs the same flow for different roles and records..."
+  default_prompt: "Use $role-based-flow-explorer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

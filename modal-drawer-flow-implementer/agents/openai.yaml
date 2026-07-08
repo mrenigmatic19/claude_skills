@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Modal Drawer Flow Implementer"
+  short_description: "Handles modals, drawers, confirmation dialogs, close..."
+  default_prompt: "Use $modal-drawer-flow-implementer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

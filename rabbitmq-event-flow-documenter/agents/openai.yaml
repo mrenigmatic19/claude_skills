@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Rabbitmq Event Flow Documenter"
+  short_description: "Creates frontend-facing event-flow documentation when UI..."
+  default_prompt: "Use $rabbitmq-event-flow-documenter to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

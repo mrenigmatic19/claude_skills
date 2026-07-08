@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Human Edit Delta Analyzer"
+  short_description: "After a human modifies the AI PR, compares AI branch vs final..."
+  default_prompt: "Use $human-edit-delta-analyzer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

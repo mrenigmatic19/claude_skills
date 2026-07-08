@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Form Validation Auditor"
+  short_description: "Support form validation with repository-aware analysis..."
+  default_prompt: "Use $form-validation-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

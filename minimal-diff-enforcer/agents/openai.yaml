@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Minimal Diff Enforcer"
+  short_description: "Forces Claude to solve the ticket with the smallest safe..."
+  default_prompt: "Use $minimal-diff-enforcer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Test Data Factory Designer"
+  short_description: "Support test data factories with repository-aware analysis..."
+  default_prompt: "Use $test-data-factory-designer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

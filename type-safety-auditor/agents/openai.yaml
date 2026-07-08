@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Type Safety Auditor"
+  short_description: "Support type safety with repository-aware analysis..."
+  default_prompt: "Use $type-safety-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

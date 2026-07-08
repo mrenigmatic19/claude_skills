@@ -1,4 +1,4 @@
----
+﻿---
 name: repository-coding-standards
 description: Enforce repository-specific coding standards before generating or modifying code. Use when Codex must learn existing source conventions, linters, formatters, tsconfig, editorconfig, style guides, architecture rules, naming, folder structure, imports, error handling, logging, security conventions, testing style, and dependency rules before writing or reviewing code.
 ---
@@ -156,3 +156,9 @@ Report:
 - Relevant failures
 - Existing unrelated failures
 - Checks skipped and why
+
+## Skill-Specific References
+
+- references/task-patterns.md - concrete trigger patterns, inputs, procedure, and pitfalls for this exact skill.
+- references/verification-matrix.md - proof matrix for deciding which tests, runtime checks, or review evidence are enough.
+

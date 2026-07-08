@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Login Session Hydrator"
+  short_description: "Creates/reuses authenticated sessions for different roles..."
+  default_prompt: "Use $login-session-hydrator to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

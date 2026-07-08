@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Frontend State Flow Mapper"
+  short_description: "Support frontend state flow with repository-aware analysis..."
+  default_prompt: "Use $frontend-state-flow-mapper to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

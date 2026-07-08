@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "SEO Technical Auditor"
+  short_description: "Support technical SEO with repository-aware analysis..."
+  default_prompt: "Use $seo-technical-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

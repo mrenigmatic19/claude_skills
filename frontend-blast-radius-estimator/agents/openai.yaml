@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Frontend Blast Radius Estimator"
+  short_description: "Predicts how many routes, tests, and components may be..."
+  default_prompt: "Use $frontend-blast-radius-estimator to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

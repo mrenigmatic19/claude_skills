@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Timezone Date Auditor"
+  short_description: "Support date and timezone handling with repository-aware..."
+  default_prompt: "Use $timezone-date-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

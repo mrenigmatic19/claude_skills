@@ -1,4 +1,4 @@
----
+﻿---
 name: feature-tracer
 description: Trace a feature end-to-end across a repository, mapping every component involved from UI to API, service, database, background jobs, external systems, tests, and side effects. Use when given a feature name, page, endpoint, component, service, database entity, bug area, or planned change and the full execution path must be understood before modifying code.
 ---
@@ -214,3 +214,9 @@ High:
 - Payment, billing, data deletion, tenant isolation, or external side effects.
 - Sparse tests.
 - Unknown ownership boundaries.
+
+## Skill-Specific References
+
+- references/task-patterns.md - concrete trigger patterns, inputs, procedure, and pitfalls for this exact skill.
+- references/verification-matrix.md - proof matrix for deciding which tests, runtime checks, or review evidence are enough.
+

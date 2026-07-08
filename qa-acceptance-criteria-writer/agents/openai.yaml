@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "QA Acceptance Criteria Writer"
+  short_description: "Support acceptance criteria with repository-aware analysis..."
+  default_prompt: "Use $qa-acceptance-criteria-writer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

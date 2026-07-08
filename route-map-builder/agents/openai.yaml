@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Route Map Builder"
+  short_description: "Builds routes-map.json mapping URL routes to page components..."
+  default_prompt: "Use $route-map-builder to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

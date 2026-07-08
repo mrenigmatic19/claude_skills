@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Docker Local Env Doctor"
+  short_description: "Before Claude codes, checks whether the local app can run..."
+  default_prompt: "Use $docker-local-env-doctor to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

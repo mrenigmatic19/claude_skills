@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Playwright E2E Writer"
+  short_description: "Creates or updates Playwright tests for the affected user..."
+  default_prompt: "Use $playwright-e2e-writer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

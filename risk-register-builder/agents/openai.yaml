@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Risk Register Builder"
+  short_description: "Support risk registers with repository-aware analysis..."
+  default_prompt: "Use $risk-register-builder to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

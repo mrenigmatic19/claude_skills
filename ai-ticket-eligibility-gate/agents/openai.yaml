@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "AI Ticket Eligibility Gate"
+  short_description: "Classifies whether the ticket is safe for AI automation..."
+  default_prompt: "Use $ai-ticket-eligibility-gate to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Data Model Consistency Auditor"
+  short_description: "Support data model consistency with repository-aware..."
+  default_prompt: "Use $data-model-consistency-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

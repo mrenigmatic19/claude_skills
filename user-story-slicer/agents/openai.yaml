@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "User Story Slicer"
+  short_description: "Support story slicing with repository-aware analysis..."
+  default_prompt: "Use $user-story-slicer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

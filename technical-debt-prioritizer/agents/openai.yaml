@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Technical Debt Prioritizer"
+  short_description: "Support technical debt prioritization with repository-aware..."
+  default_prompt: "Use $technical-debt-prioritizer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

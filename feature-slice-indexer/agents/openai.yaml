@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Feature Slice Indexer"
+  short_description: "Creates per-feature context: routes, pages, hooks, API calls..."
+  default_prompt: "Use $feature-slice-indexer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

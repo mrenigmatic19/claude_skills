@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Unit Test Pattern Writer"
+  short_description: "Writes unit tests matching existing repo style. It first..."
+  default_prompt: "Use $unit-test-pattern-writer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

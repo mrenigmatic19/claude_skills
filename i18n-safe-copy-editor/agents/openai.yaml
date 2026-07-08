@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "I18n Safe Copy Editor"
+  short_description: "For text changes, checks whether strings should go into..."
+  default_prompt: "Use $i18n-safe-copy-editor to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

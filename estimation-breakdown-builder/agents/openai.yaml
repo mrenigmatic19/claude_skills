@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Estimation Breakdown Builder"
+  short_description: "Support engineering estimation with repository-aware..."
+  default_prompt: "Use $estimation-breakdown-builder to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

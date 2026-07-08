@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Repair Loop Feedback Writer"
+  short_description: "Converts evaluator failure into scoped feedback: "Only fix..."
+  default_prompt: "Use $repair-loop-feedback-writer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

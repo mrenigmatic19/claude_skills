@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Test Flakiness Investigator"
+  short_description: "Support test flakiness with repository-aware analysis..."
+  default_prompt: "Use $test-flakiness-investigator to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

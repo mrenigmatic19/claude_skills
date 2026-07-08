@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Storybook Component Mapper"
+  short_description: "Uses Storybook stories, if present, to understand component..."
+  default_prompt: "Use $storybook-component-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

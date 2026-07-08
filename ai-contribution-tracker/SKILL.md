@@ -1,4 +1,4 @@
----
+﻿---
 name: ai-contribution-tracker
 description: Analyze repository history to estimate which code was likely AI-generated, human-written, mixed, or unknown. Use when producing AI adoption reports, commit-level AI attribution, developer-level AI usage metrics, generated test/documentation/boilerplate estimates, or repository development statistics from git history, pull requests, commits, changed files, and code patterns. Always report uncertainty with confidence scores and never claim certainty.
 ---
@@ -190,3 +190,9 @@ Flag areas where AI-generated or AI-assisted code may need extra review:
 - Include command ranges or commit hashes used for analysis.
 - Call out excluded directories such as `node_modules`, `dist`, `build`, `.next`, `coverage`, `vendor`, lockfiles, binaries, and generated artifacts.
 - State limitations clearly when pull request data or platform metadata is unavailable.
+
+## Skill-Specific References
+
+- references/task-patterns.md - concrete trigger patterns, inputs, procedure, and pitfalls for this exact skill.
+- references/verification-matrix.md - proof matrix for deciding which tests, runtime checks, or review evidence are enough.
+

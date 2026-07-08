@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Security Threat Modeler"
+  short_description: "Support security threat modeling with repository-aware..."
+  default_prompt: "Use $security-threat-modeler to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

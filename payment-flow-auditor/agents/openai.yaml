@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Payment Flow Auditor"
+  short_description: "Support payment flows with repository-aware analysis..."
+  default_prompt: "Use $payment-flow-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

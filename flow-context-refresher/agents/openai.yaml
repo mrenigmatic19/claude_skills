@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Flow Context Refresher"
+  short_description: "Re-runs important flows after route/component changes and..."
+  default_prompt: "Use $flow-context-refresher to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

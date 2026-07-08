@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Architecture Decision Matrix"
+  short_description: "Support architecture option comparison with repository-aware..."
+  default_prompt: "Use $architecture-decision-matrix to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

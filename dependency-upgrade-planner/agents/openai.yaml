@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Dependency Upgrade Planner"
+  short_description: "Support dependency upgrades with repository-aware analysis..."
+  default_prompt: "Use $dependency-upgrade-planner to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

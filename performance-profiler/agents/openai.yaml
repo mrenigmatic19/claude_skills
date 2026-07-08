@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Performance Profiler"
+  short_description: "Support performance profiling with repository-aware analysis..."
+  default_prompt: "Use $performance-profiler to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Code Review Finding Writer"
+  short_description: "Support code review findings with repository-aware analysis..."
+  default_prompt: "Use $code-review-finding-writer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

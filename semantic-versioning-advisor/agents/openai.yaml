@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Semantic Versioning Advisor"
+  short_description: "Support semantic versioning with repository-aware analysis..."
+  default_prompt: "Use $semantic-versioning-advisor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

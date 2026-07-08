@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Product Requirements Clarifier"
+  short_description: "Support product requirements with repository-aware analysis..."
+  default_prompt: "Use $product-requirements-clarifier to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

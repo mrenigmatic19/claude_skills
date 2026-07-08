@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Role Permission UI Mapper"
+  short_description: "Maps UI visibility to permission checks, roles, guards, and..."
+  default_prompt: "Use $role-permission-ui-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

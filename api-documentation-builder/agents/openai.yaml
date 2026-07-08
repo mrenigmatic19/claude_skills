@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "API Documentation Builder"
+  short_description: "Support API documentation with repository-aware analysis..."
+  default_prompt: "Use $api-documentation-builder to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

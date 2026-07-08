@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Environment Config Auditor"
+  short_description: "Support environment configuration with repository-aware..."
+  default_prompt: "Use $environment-config-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

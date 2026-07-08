@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Monorepo Boundary Guardian"
+  short_description: "Prevents Claude from editing wrong packages or crossing..."
+  default_prompt: "Use $monorepo-boundary-guardian to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

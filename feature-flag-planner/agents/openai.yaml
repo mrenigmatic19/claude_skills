@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Feature Flag Planner"
+  short_description: "Support feature flags with repository-aware analysis..."
+  default_prompt: "Use $feature-flag-planner to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

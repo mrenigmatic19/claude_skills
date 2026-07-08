@@ -1,4 +1,4 @@
----
+﻿---
 name: codebase-knowledge-extractor
 description: Build a complete understanding of a repository by extracting architecture, patterns, concepts, workflows, dependencies, and business logic. Use for senior-engineer onboarding, repository knowledge bases, code comprehension before large changes, architecture maps, concept inventories, feature-flow tracing, dependency mapping, and recommended reading orders for large or unfamiliar codebases.
 ---
@@ -153,3 +153,9 @@ Prioritize files that explain the system fastest:
 - Mark inferred relationships as inferred.
 - Highlight contradictions between docs, tests, and implementation.
 - Call out generated, vendored, or build-output files as excluded when relevant.
+
+## Skill-Specific References
+
+- references/task-patterns.md - concrete trigger patterns, inputs, procedure, and pitfalls for this exact skill.
+- references/verification-matrix.md - proof matrix for deciding which tests, runtime checks, or review evidence are enough.
+

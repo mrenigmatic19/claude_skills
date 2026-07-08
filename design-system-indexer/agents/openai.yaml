@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Design System Indexer"
+  short_description: "Indexes shared UI components, tokens, colors, spacing..."
+  default_prompt: "Use $design-system-indexer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Runtime To Source Mapper"
+  short_description: "Combines Playwright route, visible text, network calls, and..."
+  default_prompt: "Use $runtime-to-source-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

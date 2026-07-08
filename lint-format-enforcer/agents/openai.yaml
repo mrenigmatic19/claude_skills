@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Lint Format Enforcer"
+  short_description: "Support lint and formatting with repository-aware analysis..."
+  default_prompt: "Use $lint-format-enforcer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

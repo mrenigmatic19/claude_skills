@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Stakeholder Update Writer"
+  short_description: "Support stakeholder updates with repository-aware analysis..."
+  default_prompt: "Use $stakeholder-update-writer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

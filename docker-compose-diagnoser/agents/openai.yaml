@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Docker Compose Diagnoser"
+  short_description: "Support Docker Compose diagnostics with repository-aware..."
+  default_prompt: "Use $docker-compose-diagnoser to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

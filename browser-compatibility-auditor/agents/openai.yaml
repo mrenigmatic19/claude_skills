@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Browser Compatibility Auditor"
+  short_description: "Support browser compatibility with repository-aware analysis..."
+  default_prompt: "Use $browser-compatibility-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

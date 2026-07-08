@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Flaky Flow Diagnoser"
+  short_description: "Detects whether a Playwright failure is a real app bug or..."
+  default_prompt: "Use $flaky-flow-diagnoser to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

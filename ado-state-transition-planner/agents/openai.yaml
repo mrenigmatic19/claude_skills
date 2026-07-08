@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "ADO State Transition Planner"
+  short_description: "Decides ADO status updates: AI In Progress, Needs..."
+  default_prompt: "Use $ado-state-transition-planner to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

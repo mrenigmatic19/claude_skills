@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "A11y Snapshot Component Mapper"
+  short_description: "Takes accessibility snapshot labels/text and searches the..."
+  default_prompt: "Use $a11y-snapshot-component-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Ticket Ambiguity Detector"
+  short_description: "Detects vague phrases like "fix UI issue," "make it like old..."
+  default_prompt: "Use $ticket-ambiguity-detector to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

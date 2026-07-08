@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Runtime Verification Replayer"
+  short_description: "After code generation, reruns the Playwright flow and..."
+  default_prompt: "Use $runtime-verification-replayer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

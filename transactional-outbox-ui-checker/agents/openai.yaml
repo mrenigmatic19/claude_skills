@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Transactional Outbox UI Checker"
+  short_description: "For workflow apps, checks whether frontend status updates..."
+  default_prompt: "Use $transactional-outbox-ui-checker to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

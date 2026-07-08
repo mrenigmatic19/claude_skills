@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "End Of Flow Reproducer"
+  short_description: "Special skill for tickets like "issue on final confirmation..."
+  default_prompt: "Use $end-of-flow-reproducer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

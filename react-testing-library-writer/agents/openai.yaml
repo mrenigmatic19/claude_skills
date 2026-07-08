@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "React Testing Library Writer"
+  short_description: "Writes component tests using RTL patterns: render helpers..."
+  default_prompt: "Use $react-testing-library-writer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

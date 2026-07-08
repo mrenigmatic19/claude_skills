@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "State Management Pattern Detector"
+  short_description: "Detects whether a feature uses Redux, Zustand, Context, React..."
+  default_prompt: "Use $state-management-pattern-detector to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

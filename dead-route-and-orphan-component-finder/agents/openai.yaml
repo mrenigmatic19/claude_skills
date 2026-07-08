@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Dead Route And Orphan Component Finder"
+  short_description: "Finds unused routes/components that Claude might incorrectly..."
+  default_prompt: "Use $dead-route-and-orphan-component-finder to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

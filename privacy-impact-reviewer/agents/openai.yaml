@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Privacy Impact Reviewer"
+  short_description: "Support privacy impact with repository-aware analysis..."
+  default_prompt: "Use $privacy-impact-reviewer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

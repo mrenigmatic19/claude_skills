@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Shared Component Impact Analyzer"
+  short_description: "Warns when a shared component change may affect multiple..."
+  default_prompt: "Use $shared-component-impact-analyzer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

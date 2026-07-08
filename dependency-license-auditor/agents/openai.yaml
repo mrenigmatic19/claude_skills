@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Dependency License Auditor"
+  short_description: "Support dependency licensing with repository-aware analysis..."
+  default_prompt: "Use $dependency-license-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

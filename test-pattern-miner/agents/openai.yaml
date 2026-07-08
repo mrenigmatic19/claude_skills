@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Test Pattern Miner"
+  short_description: "Studies nearby test files and documents the repo's test..."
+  default_prompt: "Use $test-pattern-miner to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

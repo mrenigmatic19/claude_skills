@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "API Client Consistency Reviewer"
+  short_description: "Support API clients with repository-aware analysis..."
+  default_prompt: "Use $api-client-consistency-reviewer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

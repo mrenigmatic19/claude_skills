@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Mobile Release Checker"
+  short_description: "Support mobile release readiness with repository-aware..."
+  default_prompt: "Use $mobile-release-checker to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

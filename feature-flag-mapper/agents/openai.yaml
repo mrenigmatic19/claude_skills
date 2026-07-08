@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Feature Flag Mapper"
+  short_description: "Detects feature flags controlling the target UI and ensures..."
+  default_prompt: "Use $feature-flag-mapper to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

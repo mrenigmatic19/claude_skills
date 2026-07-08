@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Readme Onboarding Builder"
+  short_description: "Support README onboarding with repository-aware analysis..."
+  default_prompt: "Use $readme-onboarding-builder to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

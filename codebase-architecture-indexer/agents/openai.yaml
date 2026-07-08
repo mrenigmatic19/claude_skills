@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Codebase Architecture Indexer"
+  short_description: "Scans the frontend repo and produces architecture.md: tech..."
+  default_prompt: "Use $codebase-architecture-indexer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

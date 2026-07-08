@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Nginx Frontend Routing Checker"
+  short_description: "Checks SPA routing, reverse proxy rules, API proxy paths..."
+  default_prompt: "Use $nginx-frontend-routing-checker to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

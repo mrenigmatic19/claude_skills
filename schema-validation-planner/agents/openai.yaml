@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Schema Validation Planner"
+  short_description: "Support schema validation with repository-aware analysis..."
+  default_prompt: "Use $schema-validation-planner to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

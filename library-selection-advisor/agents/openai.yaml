@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Library Selection Advisor"
+  short_description: "Support library selection with repository-aware analysis..."
+  default_prompt: "Use $library-selection-advisor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

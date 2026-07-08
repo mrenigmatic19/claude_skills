@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Network Call Capturer"
+  short_description: "Captures frontend network calls during a Playwright flow and..."
+  default_prompt: "Use $network-call-capturer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

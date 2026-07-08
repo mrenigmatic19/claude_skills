@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "GHCR Lightsail Deploy Reviewer"
+  short_description: "For your GHCR + AWS Lightsail pattern, reviews deployment..."
+  default_prompt: "Use $ghcr-lightsail-deploy-reviewer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

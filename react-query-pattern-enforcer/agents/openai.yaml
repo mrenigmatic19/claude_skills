@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "React Query Pattern Enforcer"
+  short_description: "Ensures data fetching follows existing React Query key..."
+  default_prompt: "Use $react-query-pattern-enforcer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

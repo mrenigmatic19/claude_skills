@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Search Quality Auditor"
+  short_description: "Support search quality with repository-aware analysis..."
+  default_prompt: "Use $search-quality-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

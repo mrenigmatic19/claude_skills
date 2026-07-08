@@ -1,4 +1,4 @@
----
+﻿---
 name: repository-test-expert
 description: Learn testing conventions from an existing codebase and generate new tests that match repository patterns. Use before adding, repairing, expanding, or reviewing tests when Codex must discover existing test frameworks, folder conventions, mocking strategy, fixture usage, assertion style, setup/teardown patterns, coverage gaps, and naming standards instead of inventing a new testing style.
 ---
@@ -178,3 +178,9 @@ Report:
 - Failures related to the change
 - Existing unrelated failures
 - Tests not run and why
+
+## Skill-Specific References
+
+- references/task-patterns.md - concrete trigger patterns, inputs, procedure, and pitfalls for this exact skill.
+- references/verification-matrix.md - proof matrix for deciding which tests, runtime checks, or review evidence are enough.
+

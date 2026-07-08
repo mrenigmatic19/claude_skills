@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Analytics Event Auditor"
+  short_description: "Support analytics events with repository-aware analysis..."
+  default_prompt: "Use $analytics-event-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

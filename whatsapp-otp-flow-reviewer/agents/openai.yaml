@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Whatsapp OTP Flow Reviewer"
+  short_description: "Checks OTP flows for resend timer, error handling, rate limit..."
+  default_prompt: "Use $whatsapp-otp-flow-reviewer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

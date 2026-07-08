@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Workitem PR Linker"
+  short_description: "Creates the correct PR metadata: linked work item, reviewers..."
+  default_prompt: "Use $workitem-pr-linker to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

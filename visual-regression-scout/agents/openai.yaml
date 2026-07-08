@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Visual Regression Scout"
+  short_description: "Captures before/after screenshots for changed pages and flags..."
+  default_prompt: "Use $visual-regression-scout to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

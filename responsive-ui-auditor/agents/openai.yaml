@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Responsive UI Auditor"
+  short_description: "Support responsive UI with repository-aware analysis..."
+  default_prompt: "Use $responsive-ui-auditor to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

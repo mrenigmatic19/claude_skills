@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Decision Record Writer"
+  short_description: "Support decision records with repository-aware analysis..."
+  default_prompt: "Use $decision-record-writer to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Low Confidence Stop Skill"
+  short_description: "Stops code generation when route/component/API/test mapping..."
+  default_prompt: "Use $low-confidence-stop-skill to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

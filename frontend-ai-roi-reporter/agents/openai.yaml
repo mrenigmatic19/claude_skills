@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Frontend AI ROI Reporter"
+  short_description: "Creates monthly report: number of AI PRs, accepted PRs..."
+  default_prompt: "Use $frontend-ai-roi-reporter to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

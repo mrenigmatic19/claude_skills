@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Scoped Frontend Generator"
+  short_description: "The main generator skill. It only edits planner-approved..."
+  default_prompt: "Use $scoped-frontend-generator to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

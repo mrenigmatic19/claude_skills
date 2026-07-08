@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Error Empty Loading State Builder"
+  short_description: "Adds correct loading, error, empty, unauthorized, and retry..."
+  default_prompt: "Use $error-empty-loading-state-builder to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

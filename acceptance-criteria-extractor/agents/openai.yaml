@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Acceptance Criteria Extractor"
+  short_description: "Extracts measurable acceptance criteria from messy tickets..."
+  default_prompt: "Use $acceptance-criteria-extractor to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

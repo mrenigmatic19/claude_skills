@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Incident Response Runbooker"
+  short_description: "Support incident response runbooks with repository-aware..."
+  default_prompt: "Use $incident-response-runbooker to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true

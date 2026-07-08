@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Incident UI Workflow Skill"
+  short_description: "Inspired by your cloud-ops AI project. Handles dashboards for..."
+  default_prompt: "Use $incident-ui-workflow-skill to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

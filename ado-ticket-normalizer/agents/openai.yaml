@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "ADO Ticket Normalizer"
+  short_description: "Converts raw ADO ticket text into a structured JSON task..."
+  default_prompt: "Use $ado-ticket-normalizer to handle this task with repository evidence, risk gates, and a reviewer-ready output."
+
+policy:
+  allow_implicit_invocation: true

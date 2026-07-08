@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Observability Instrumentation Planner"
+  short_description: "Support observability instrumentation with repository-aware..."
+  default_prompt: "Use $observability-instrumentation-planner to handle this task with evidence, risk review, and concrete verification."
+
+policy:
+  allow_implicit_invocation: true
